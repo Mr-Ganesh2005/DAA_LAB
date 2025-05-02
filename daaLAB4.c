@@ -1,3 +1,6 @@
+#Write a C program for Prism .
+
+
 #include <stdio.h>
 #include <limits.h>
 #include <stdbool.h>
